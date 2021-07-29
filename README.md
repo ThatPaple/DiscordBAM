@@ -36,7 +36,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project started with a need. We have identified the need for notifications when a ban appeal is submitted through Google Forms, there are options such as Zapier, but we've decided to take the route where we have the most control over what we see and get.
+This project started with a need. We have identified the need for notifications when a ban appeal is submitted through Google Forms, there are options such as Zapier, but we've decided to take the route where we have the most control over what we see and get. It is ideal to mention that the project itself is ideal for moderators already using Google Forms as a ban appeal system. You need a Google Form already set up in order to use this, this is an script that extendes the functionality to Discord, not a direct replacement for a ban appeal system!
 
 Here's the *why* :
 * Time is valuable, you should not be required to check your ban appeal forms every day, simply, you'll be notified
